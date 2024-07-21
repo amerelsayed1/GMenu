@@ -12,7 +12,7 @@ GMenu is a Spring Boot application for managing restaurant menu items, including
 
 ### Prerequisites
 
-- Java 8 or higher
+- Java 17 or higher
 - Maven 3.6.0 or higher
 - An IDE of your choice (IntelliJ IDEA, Eclipse, etc.)
 
